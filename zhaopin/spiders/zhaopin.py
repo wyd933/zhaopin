@@ -29,5 +29,4 @@ class MySpider(scrapy.spiders.Spider):
 #            str_job = str(job) + '\n'
 #            print(len(str_job))
 #            f.write(str_job)
-#            print("fuckfuckfuck\n\n\n")
 #        f.close()
